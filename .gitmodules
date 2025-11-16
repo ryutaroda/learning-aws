@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github-personal:ryutaroda/learning-aws-app.git
+[submodule "terraform"]
+	path = terraform
+	url = git@github-personal:ryutaroda/learning-aws-terraform.git
